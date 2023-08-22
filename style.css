@@ -1,0 +1,15 @@
+#countdown{
+   
+    top: 200px;
+    position: relative;
+    color: rgb(247, 244, 244);
+    text-align: center;
+   
+    background-size: 100px;
+    font-size: 70px;
+    
+
+}
+body{
+    background-color: rgb(11, 11, 12);
+}
